@@ -20,12 +20,10 @@ Pair it with Lumirai Viewer on a tablet to preview studies before entering the r
 
 ## Download for Windows
 
-**[Lightbox for Windows (x64)](https://github.com/Lumirai/lightbox-releases/releases/latest/download/Lightbox-Setup-x64.exe)**
-for most PCs, or
-**[Lightbox for Windows (ARM)](https://github.com/Lumirai/lightbox-releases/releases/latest/download/Lightbox-Setup-arm64.exe)**
-for Snapdragon and Surface Pro ARM. Run the installer; you can choose “only for me” or “anyone who
-uses this computer.” Builds are signed by Lumirai LLC, and Lightbox keeps itself up to date from there.
-If needed, you can disable automatic updates in the settings panel.
+**[Lightbox for Windows](https://github.com/Lumirai/lightbox-releases/releases/latest/download/Lightbox-Setup-x64.exe)**
+— run the installer; you can choose “only for me” or “anyone who uses this computer.” Builds are
+signed by Lumirai LLC, and Lightbox keeps itself up to date from there. If needed, you can disable
+automatic updates in the settings panel.
 
 Lightbox can also be [downloaded and updated from the Microsoft App Store](https://apps.microsoft.com/detail/9p4j9t0tctss?hl=en-US&gl=US&ocid=pdpshare).
 
